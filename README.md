@@ -74,7 +74,7 @@ Acknowledgments
 
  Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!  
 
-8. Reference  
+Reference  
 [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.  
 [2] R. Daudt, B. Saux, and A. Boulch, “Fully Convolutional Siamese Networks for Change Detection,” in Proc. 25th IEEE Int. Conf. Image Process. (ICIP), pp. 4063–4067, Oct. 2018.  
 [3] C. Zhang, P. Yue, D. Tapete, L. Jiang, and B. Shangguan, “A Deeply Supervised Image Fusion Network for Change Detection in High Resolution Bi-temporal Remote Sensing Images,” ISPRS J. Photogramm. Remote Sens., vol. 166, pp. 183–200, 2020.  
