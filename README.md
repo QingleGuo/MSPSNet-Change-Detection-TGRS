@@ -3,14 +3,14 @@
 By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong
 [10 Nov. 2021] Release the code of MSPSNet model
 
-1. Ｄataset Ｄownload
-LEVIR-CD：https://justchenhao.github.io/LEVIR/
-SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
+1. Dataset Download
+ LEVIR-CD：https://justchenhao.github.io/LEVIR/
+ SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
 
 Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
 
 2. Dataset Path Setteing
-LEVIR_CD or SYSU
+ LEVIR_CD or SYSU
      |—train
           |   |—A
           |   |—B
@@ -23,15 +23,15 @@ LEVIR_CD or SYSU
           |   |—A
           |   |—B
           |   |—OUT
-Where A contains images of first temporal image, B contains images of second temporal images, and OUT contains groundtruth maps.
+ Where A contains images of first temporal image, B contains images of second temporal images, and OUT contains groundtruth maps.
 
 3. Traing and test Process
 
-python train.py
-python test.py
+ python train.py
+ python test.py
 
 4. Revised parameters
-You can revised related parameters in the "metedata.json" file.
+ You can revised related parameters in the "metadata.json" file.
 
 5. Requirement
 
@@ -44,7 +44,7 @@ You can revised related parameters in the "metedata.json" file.
 
 6. Citation
 
-If you use this code for your research, please cite our papers.
+ If you use this code for your research, please cite our papers.
 
 ```
 @Article{
@@ -72,7 +72,7 @@ DOI = {10.1109/TGRS.2020.3008016}
 ```
 7. Acknowledgments
 
-Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!
+ Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!
 
 8. Reference
 [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.
