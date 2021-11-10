@@ -3,9 +3,9 @@
 By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong
 [10 Nov. 2021] Release the code of MSPSNet model
 
-1. Dataset Download
- LEVIR-CD：https://justchenhao.github.io/LEVIR/
- SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
+1. Dataset Download  
+ LEVIR-CD：https://justchenhao.github.io/LEVIR/  
+ SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)  
 
 Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
 
