@@ -5,7 +5,7 @@ By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxia
 
 1. Ｄataset Ｄownload
 LEVIR-CD：https://justchenhao.github.io/LEVIR/
-SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　password：mlls
+SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
 
 Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
 
