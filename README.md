@@ -3,13 +3,13 @@ The Pytorch implementation for Deep Multiscale Siamese Network with Parallel Con
 By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong  
 [10 Nov. 2021] Release the code of MSPSNet model  
 
-1. Dataset Download  
+Dataset Download  
  LEVIR-CD：https://justchenhao.github.io/LEVIR/  
  SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)  
 
  Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.  
 
-2. Dataset Path Setteing  
+Dataset Path Setteing  
  LEVIR_CD or SYSU  
      |—train  
           |   |—A  
@@ -25,15 +25,15 @@ By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxia
           |   |—OUT  
  Where A contains images of first temporal image, B contains images of second temporal images, and OUT contains groundtruth maps.  
 
-3. Traing and test Process  
+Traing and test Process  
 
  python train.py  
  python test.py  
 
-4. Revised parameters  
+Revised parameters  
  You can revised related parameters in the "metadata.json" file.  
 
-5. Requirement  
+Requirement  
 
 -Pytorch 1.8.0  
 -torchvision 0.9.0  
@@ -42,7 +42,7 @@ By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxia
 -tensorboardx 2.4  
 
 
-6. Citation  
+Citation  
 
  If you use this code for your research, please cite our papers.  
 
@@ -70,7 +70,7 @@ DOI = {10.1109/TGRS.2020.3008016}
 }
 
 ```
-7. Acknowledgments  
+Acknowledgments  
 
  Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!  
 
