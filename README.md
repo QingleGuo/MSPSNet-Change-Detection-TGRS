@@ -39,7 +39,9 @@ __Requirement__
 -torchvision 0.9.0  
 -python 3.8  
 -opencv-python  4.5.3.56  
--tensorboardx 2.4  
+-tensorboardx 2.4 
+-Cuda 11.3.1  
+-Cudnn 11.3  
 
 
 __Citation__  
