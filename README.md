@@ -3,13 +3,13 @@ The Pytorch implementation for Deep Multiscale Siamese Network with Parallel Con
 By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong  
 [10 Nov. 2021] Release the code of MSPSNet model  
 
-Dataset Download  
+__Dataset Download__   
  LEVIR-CD：https://justchenhao.github.io/LEVIR/  
  SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)  
 
  Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.  
 
-Dataset Path Setteing  
+__Dataset Path Setteing__  
  LEVIR_CD or SYSU  
      |—train  
           |   |—A  
@@ -25,15 +25,15 @@ Dataset Path Setteing
           |   |—OUT  
  Where A contains images of first temporal image, B contains images of second temporal images, and OUT contains groundtruth maps.  
 
-Traing and test Process  
+__Traing and test Process__   
 
  python train.py  
  python test.py  
 
-Revised parameters  
+__Revised parameters__  
  You can revised related parameters in the "metadata.json" file.  
 
-Requirement  
+__Requirement__  
 
 -Pytorch 1.8.0  
 -torchvision 0.9.0  
@@ -42,7 +42,7 @@ Requirement
 -tensorboardx 2.4  
 
 
-Citation  
+__Citation__  
 
  If you use this code for your research, please cite our papers.  
 
@@ -70,11 +70,11 @@ DOI = {10.1109/TGRS.2020.3008016}
 }
 
 ```
-Acknowledgments  
+__Acknowledgments__  
 
  Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!  
 
-Reference  
+__Reference__  
 [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.  
 [2] R. Daudt, B. Saux, and A. Boulch, “Fully Convolutional Siamese Networks for Change Detection,” in Proc. 25th IEEE Int. Conf. Image Process. (ICIP), pp. 4063–4067, Oct. 2018.  
 [3] C. Zhang, P. Yue, D. Tapete, L. Jiang, and B. Shangguan, “A Deeply Supervised Image Fusion Network for Change Detection in High Resolution Bi-temporal Remote Sensing Images,” ISPRS J. Photogramm. Remote Sens., vol. 166, pp. 183–200, 2020.  
