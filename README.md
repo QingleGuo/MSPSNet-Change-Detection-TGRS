@@ -4,8 +4,8 @@ By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxia
 [10 Nov. 2021] Release the code of MSPSNet model
 
 1. Ｄataset Ｄownload
-2. LEVIR-CD：https://justchenhao.github.io/LEVIR/
-3. SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
+LEVIR-CD：https://justchenhao.github.io/LEVIR/
+SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)
 
 Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.
 
@@ -75,7 +75,7 @@ DOI = {10.1109/TGRS.2020.3008016}
 Our code is inspired and revised by [pytorch-SNUNet], Thanks Sheng Fang for his great work!!
 
 8. Reference
-9. [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.
+[1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.
 [2] R. Daudt, B. Saux, and A. Boulch, “Fully Convolutional Siamese Networks for Change Detection,” in Proc. 25th IEEE Int. Conf. Image Process. (ICIP), pp. 4063–4067, Oct. 2018.
 [3] C. Zhang, P. Yue, D. Tapete, L. Jiang, and B. Shangguan, “A Deeply Supervised Image Fusion Network for Change Detection in High Resolution Bi-temporal Remote Sensing Images,” ISPRS J. Photogramm. Remote Sens., vol. 166, pp. 183–200, 2020.
 [4] J. Xu, C. Luo, X. Chen, S. Wei, and Y. Luo, “Remote Sensing Change Detection Based on Multidirectional Adaptive Feature Fusion and Perceptual Similarity,” Remote Sens., vol. 13, no. 15, pp. 3053-3077, Aug. 2021.
