@@ -3,11 +3,6 @@
 By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong
 [10 Nov. 2021] Release the code of MSPSNet model
 
-Architecture
-
-![image](https://user-images.githubusercontent.com/94043516/141083013-f6c27c4a-2c9e-4bfd-95ff-45e941bb9a27.png)
-
-
 1. Ｄataset Ｄownload
 LEVIR-CD：https://justchenhao.github.io/LEVIR/
 SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　password：mlls
