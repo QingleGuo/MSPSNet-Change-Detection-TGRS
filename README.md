@@ -1,6 +1,6 @@
 # MSPSNet-Change-Detection-TGRS
 The Pytorch implementation for Deep Multiscale Siamese Network with Parallel Convolutional Structure and Self-Attention for Change Detection  
-By Qingle Guo (e-mail:GQle_HIT@163.com), Junping Zhang, Shengyu Zhu and Chongxiao Zhong  
+Qingle Guo, Junping Zhang, Shengyu Zhu and Chongxiao Zhong  
 [04 Dec. 2021] Release the first version of the MSPSNet
 
 __Dataset Download__   
