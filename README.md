@@ -58,19 +58,6 @@ YEAR = {2022},
 ISSN = {1558-0644},
 }
 
-@Article{
-AUTHOR = {Qingle Guo, Junping Zhang and Ye Zhang},
-TITLE = {Multitemporal Images Change Detection Based on AMMF and Spectral Constraint Strategy},
-JOURNAL = {IEEE Transactions on Geoscience and Remote Sensing},
-VOLUME = {59},
-YEAR = {2021},
-ISSUE = {4},
-ARTICLE-NUMBER = {20965016},
-URL = {https://ieeexplore.ieee.org/document/9143464},
-ISSN = {1558-0644},
-DOI = {10.1109/TGRS.2020.3008016}
-}
-
 ```
 __Acknowledgments__  
 
