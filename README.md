@@ -78,4 +78,4 @@ __Acknowledgments__
 
 __Reference__  
 [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.  
-[2] J. Xu, C. Luo, X. Chen, S. Wei, and Y. Luo, “Remote Sensing Change Detection Based on Multidirectional Adaptive Feature Fusion and Perceptual Similarity,” Remote Sens., vol. 13, no. 15, pp. 3053-3077, Aug. 2021.  
+[2] S. Fang, K. Li, J. Shao and Z. Li, “SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images,” IEEE Geosci.and Remote Sens. Lett., 2021.  
