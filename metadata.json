@@ -1,0 +1,15 @@
+{
+  "patch_size": 10,
+  "augmentation": true,
+  "num_gpus": 1,
+  "num_workers": 0,
+  "num_channel": 3,
+  "EF": false,
+  "epochs": 120,
+  "batch_size": 2,
+  "learning_rate": 1e-3,
+  "loss_function": "hybrid",
+  "dataset_dir": "./LEVIR_CD/",
+  "weight_dir": "./outputs/",
+  "log_dir": "./log/"
+}
