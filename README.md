@@ -66,3 +66,4 @@ __Acknowledgments__
 __Reference__  
 [1] H. Chen and Z. Shi, “A Spatial-temporal Attention-based Method and a New Dataset for Remote Sensing Image Change Detection,” Remote Sens., vol. 12, no. 10, pp. 1662, May 2020.  
 [2] S. Fang, K. Li, J. Shao and Z. Li, “SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images,” IEEE Geosci.and Remote Sens. Lett., 2021.  
+[3] Q. Shi, M. Liu, S. Li, X. Liu, F. Wang, L. Zhang, "A Deeply Supervised Attention Metric-Based Network and an Open Aerial Image Dataset for Remote Sensing Change Detection," IEEE Trans. Geosci. Remote Sens., 2021
