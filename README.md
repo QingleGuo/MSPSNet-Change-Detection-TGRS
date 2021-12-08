@@ -5,7 +5,7 @@ Qingle Guo, Junping Zhang, Shengyu Zhu and Chongxiao Zhong
 
 __Dataset Download__   
  LEVIR-CD：https://justchenhao.github.io/LEVIR/  
- SYSU：https://pan.baidu.com/share/init?surl=5lQPG_hXZbLp91VywwcT7Q　(mlls)  
+ SYSU：https://drive.google.com/drive/folders/1ALb8rzw9zEMSxwNTvIrIaA83zjjs04CE  
 
  Note: Please crop the LEVIR dataset to a slice of 256×256 before training with it.  
 
